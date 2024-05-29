@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EiZ01+d6lkKECLsvLDgNYlhseZwIqAP8TOorOG/sSWM=",
+  "Source": "dotnet-demo",
+  "BasePath": "_content/dotnet-demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
