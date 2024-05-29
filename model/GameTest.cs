@@ -1,6 +1,6 @@
 namespace dotnet_demo;
 
-public record class Game(
+public record class GameTest(
     int Id,
     string Name,
     string Genre,
