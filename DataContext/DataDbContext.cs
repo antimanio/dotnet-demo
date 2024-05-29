@@ -1,7 +1,7 @@
 ﻿using dotnet_demo.Entites;
 using Microsoft.EntityFrameworkCore;
 
-namespace dotnet_demo;
+namespace dotnet_demo.DataContext;
 
 /*
  Brigde Between Entities and Database
@@ -24,8 +24,7 @@ public class DataDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-    
-        optionsBuilder.UseNpgsql(configuration.GetConnectionString("dotnetDemo"));
+        optionsBuilder.UseNpgsql(configuration.GetConnectionString("dotnetDemo"),  x => x.MigrationsHistoryTable("__EFMigrationsHistory", "demo"));
     }
 
 

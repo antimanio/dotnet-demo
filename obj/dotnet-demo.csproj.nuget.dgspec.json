@@ -42,7 +42,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0-preview.4.24267.1, )"
+              "version": "[8.0.6, )"
             },
             "MinimalApis.Extensions": {
               "target": "Package",
@@ -50,7 +50,7 @@
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[9.0.0-preview.3, )"
+              "version": "[8.0.4, )"
             }
           },
           "imports": [

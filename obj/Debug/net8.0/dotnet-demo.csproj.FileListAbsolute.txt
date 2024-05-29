@@ -40,16 +40,7 @@
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Mono.TextTemplating.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Npgsql.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
@@ -59,8 +50,6 @@
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/System.Composition.Hosting.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/System.Composition.Runtime.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/System.Composition.TypedParts.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/System.Text.Encodings.Web.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/System.Text.Json.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
@@ -113,4 +102,3 @@
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/antont/work/projects/dotnet-demo/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
